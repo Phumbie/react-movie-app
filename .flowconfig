@@ -1,0 +1,8 @@
+[ignore]
+<project_ROOT>/node_modules/styled-components/*
+
+[include]
+
+[libs]
+
+[options]
